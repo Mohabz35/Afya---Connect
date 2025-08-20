@@ -1,0 +1,64 @@
+# --- General ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+
+# --- Node.js (if frontend uses React/Next.js etc.) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# --- Python (if backend uses Django/Flask/FastAPI etc.) ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+*.egg
+*.coverage
+.coverage.*
+htmlcov/
+
+# --- Java/Android (if mobile app builds in Java/Kotlin) ---
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+out/
+
+# --- Flutter/Dart (if mobile app builds in Flutter) ---
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# --- VS Code/IDE ---
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# --- OS Specific ---
+*.lnk
+desktop.ini
+
+# --- Docs/Generated Files ---
+*.pdf
+*.docx
+*.xlsx
+*.pptx
