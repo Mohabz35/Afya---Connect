@@ -37,11 +37,11 @@ With features tailored to each group, Afya Connect improves **training, access, 
 
 ---
 
-## 🛠️ Roadmap (2025)  
-- **March 2025** → Share 1st prototype with stakeholders.  
-- **June 2025** → Investor & stakeholder feedback forum.  
-- **September 2025** → Improved 2nd prototype (with USSD integration).  
-- **December 2025** → Final product launch & scaling across Kenya.  
+## 🛠️ Roadmap (2026)  
+- **March 2026** → Share 1st prototype with stakeholders.  
+- **June 2026** → Investor & stakeholder feedback forum.  
+- **September 2026** → Improved 2nd prototype (with USSD integration).  
+- **December 2026** → Final product launch & scaling across Kenya.  
 
 ---
 
