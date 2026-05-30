@@ -3,12 +3,7 @@ import Link from 'next/link';
 export default function DoctorsPage() {
   return (
     <div className="flex flex-col min-h-screen">
-      <header className="px-4 lg:px-6 h-14 flex items-center border-b">
-        <Link className="flex items-center justify-center" href="/">
-          <span className="font-bold text-2xl text-blue-600">Afya Connect</span>
-        </Link>
-      </header>
-      <main className="flex-1 p-6 md:p-12">
+      <main className="flex-1 p-6 md:p-12 bg-gray-50">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-3xl font-bold text-blue-900 mb-6">Doctor Portal</h1>
           <div className="grid gap-6 md:grid-cols-2">
