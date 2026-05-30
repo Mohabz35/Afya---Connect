@@ -11,6 +11,7 @@ export default function Navbar() {
     { name: 'Patients', href: '/patients' },
     { name: 'Interns', href: '/interns' },
     { name: 'Doctors', href: '/doctors' },
+    { name: 'Hospitals', href: '/hospitals' },
   ];
 
   return (

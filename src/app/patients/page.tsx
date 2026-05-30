@@ -43,6 +43,13 @@ export default function PatientsPage() {
                     Find Intern
                   </button>
                 </div>
+                <div className="p-6 border rounded-xl shadow-sm bg-white border-dashed border-gray-300">
+                  <h2 className="text-xl font-semibold mb-2">No Internet?</h2>
+                  <p className="text-gray-600 mb-4">Use our USSD service to access healthcare on any mobile phone.</p>
+                  <Link href="/patients/ussd" className="text-blue-600 font-bold hover:underline">
+                    Try USSD Simulator →
+                  </Link>
+                </div>
               </div>
             </>
           )}
